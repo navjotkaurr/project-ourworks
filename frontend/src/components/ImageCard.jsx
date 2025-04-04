@@ -6,7 +6,7 @@ const ImageCard = ({ works }) => {
       {works.map((work, index) => (
         <div 
           key={index} 
-          className={`rounded-2xl p-4 flex flex-col items-center 
+          className={`rounded-2xl p-4 flex flex-col items-center p-4
             ${
               index % 4 === 0 // First image
                 ? "md:col-span-1 lg:col-span-1"
