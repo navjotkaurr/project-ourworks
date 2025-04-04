@@ -16,4 +16,4 @@ npm run dev
 - @tailwindcss/vite
 
 ## Live Demo
-[Live App](https://symphonious-alpaca-3fbb76.netlify.app/)
+[Live App](https://peaceful-faun-480fa5.netlify.app/)
